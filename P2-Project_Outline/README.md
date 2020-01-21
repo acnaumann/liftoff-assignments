@@ -31,9 +31,11 @@ As someone who always forgets to add some meal ingredient to their shopping list
 
 ### Technologies
 C#
-ASP.NET Core
-MVC?
+ASP.NET Core MVC
 Sqlite
+Entity Framework
+HTML5
+CSS3
 
 ### What I'll Have to Learn
 JavaScript
